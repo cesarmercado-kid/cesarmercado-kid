@@ -12,7 +12,7 @@
       <div>I bring experience working with SQL, Python and BI tools to analyze data and create dashboards that drive impact. I have a track record of delivering actionable insights and building data products that solve real business problems across domains including insurance, finance and operations.
       </div>
     </td>
-    <td valign="top" width="60%">
+    <td valign="top" width="55%">
       <img src="dashboard-background.png" style=width:100%; height: auto;" />
     </td>
   </tr>
