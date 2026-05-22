@@ -9,11 +9,11 @@
         <li> Business & Data Analyst </li> 
         <li> Backend Dev | BI </li>
       </ul>
-      <div>I bring experience working with SQL, Python and BI tools to analyze data and create dashboards that drive impact. I have a track record of delivering actionable insights and building data products that solve real business problems across domains including insurance, finance and operations.
+      <div>I bring experience working with SQL, Python and BI tools to analyze data and create dashboards that drive impact. Delivering insights and developing data products that address real business challenges across key sectors, including banking, insurance, finance and operations.
       </div>
     </td>
-    <td valign="top" width="55%">
-      <img src="dashboard-background.png" style=width:100%; height: auto;" />
+    <td valign="top" width="70%">
+      <img src="dashboard-background.png" style=width:100%;" />
     </td>
   </tr>
 </table>
