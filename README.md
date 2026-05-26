@@ -6,13 +6,11 @@
       <h2>🚀 About me</h2>
       <ul>
         <li> Industrial Engineer | MBA </li>
-        <li> Business & Data Analyst </li> 
-        <li> Backend Dev | BI </li>
+        <li> Business & Data Analyst | BI </li> 
+        <li> Backend Dev | Cloud Computing </li>
       </ul>
-      <div>I bring experience working with SQL, Python and BI tools to analyze data and create dashboards that drive impact. Delivering insights and developing data products that address real business challenges across key sectors, including banking, insurance, finance and operations.
-      </div>
     </td>
-    <td valign="top" width="70%">
+    <td valign="top" width="60%">
       <img src="dashboard-background.png" style=width:100%;" />
     </td>
   </tr>
