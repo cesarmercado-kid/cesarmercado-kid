@@ -1,20 +1,6 @@
-<table>
-  <tr>
-    <td valign="top">
-      <h1>👋 Hi,</br> 
-        I'm César Mercado </h1> 
-      <h2>🚀 About me</h2>
-      <ul>
-        <li> Industrial Engineer | MBA </li>
-        <li> Business & Data Analyst | BI </li> 
-        <li> Backend Dev | Cloud Computing </li>
-      </ul>
-    </td>
-    <td valign="top" width="60%">
-      <img src="dashboard-background.png" style=width:100%;" />
-    </td>
-  </tr>
-</table>
+<td valign="top">
+  <img src="dashboard-background.png" style="width:30%">
+</td>
 
 <h2>🔧 Skills</h2>
       <ul>
