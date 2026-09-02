@@ -1,7 +1,3 @@
-<td valign="top">
-  <img src="dashboard-background.png" style="width:30%">
-</td>
-
 <h2>🔧 Skills</h2>
       <ul>
         <h3>Core Domain</h3>
